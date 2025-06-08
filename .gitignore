@@ -1,0 +1,8 @@
+# Ignore Kaggle credentials
+kaggle.json
+.kaggle/
+# Ignore data files
+*.zip
+*.csv
+*.h5
+*.npy
